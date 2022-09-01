@@ -12,7 +12,7 @@ cmd
 <img src="resources/CommandLine/CommandLine010.png" width="664">
 
 ---
-
+### Полезные утилиты из командной строки:
 
 `control` — запуск "Панели управления Windows"
 

@@ -319,3 +319,5 @@
 |	:u7981:    `:u7981:`	|	:clock1:    `:clock1:`	|	:shipit:    `:shipit:`	|
 |	:sa:    `:sa:`	|	:clock130:    `:clock130:`	|		|
 |	:restroom:    `:restroom:`	|	:clock10:    `:clock10:`	|		|
+
+[источник](https://github.com/GnuriaN/format-README/blob/master/emoji.md)

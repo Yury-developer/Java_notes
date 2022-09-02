@@ -485,3 +485,5 @@ erDiagram
 
 [:arrow_up:Оглавление](#Оглавление)
 ____
+
+[источник](https://github.com/GnuriaN/format-README/blob/master/README.md)
